@@ -78,29 +78,55 @@ For optimal financial planning, however, the proposal should more clearly articu
 
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/37483319/4151d672-60c5-4094-acbc-566ca63aea75/DTS-gRTGS-v2-1.docx
+
 [2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/37483319/61d5b218-1763-42bc-b25c-3f6d14fb1a5b/DBM-RTGS-RFI-v1-1.docx
+
 [3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/37483319/1a5bc8c4-f088-4890-a609-669487930716/gRTGS-System-Project-Proposal-v1.0-1.docx
+
 [4] https://www.centralbanking.com/benchmarking/payments/7961411/average-cost-of-running-rtgs-systems-is-18-million
+
 [5] https://www.bsp.gov.ph/Media_And_Research/BS%20Review/BSR2003_03.pdf
+
 [6] https://www.bankofengland.co.uk/payment-and-settlement/rtgs-chaps-fees
+
 [7] https://www.adb.org/projects/46312-001/main
+
 [8] https://www.newyorkfed.org/medialibrary/media/research/epr/08v14n2/0809prei.pdf
+
 [9] https://www.centralbanking.com/benchmarking/payments/7864511/majority-of-central-banks-charge-rtgs-usage-fee
+
 [10] https://www.adb.org/sites/default/files/project-documents/46312-001-pam_2.pdf
+
 [11] https://www.fsb.org/uploads/RTGSglobal.pdf
+
 [12] https://www.bsp.gov.ph/PaymentAndSettlement/PhilPaSS.pdf
+
 [13] https://www.bis.org/cpmi/publ/d201.pdf
+
 [14] https://pdp.neda.gov.ph/wp-content/uploads/2021/08/8312021_Updated-PDP-2017-2022.pdf
+
 [15] https://www.centralbanking.com/benchmarking/payments/7961407/most-rtgs-systems-operate-between-seven-and-12-hours-daily
+
 [16] https://www.winvesta.in/blog/neft-vs-rtgs-a-comprehensive-comparison-guide
+
 [17] https://b2b.mastercard.com/media/3o2jfqfl/the-evolution-of-real-time-payments-in-the-philippines.pdf
+
 [18] https://www.worldbank.org/en/topic/paymentsystemsremittances
+
 [19] https://www.afponline.org/docs/default-source/default-document-library/pub/2015-payments-cost-benchmarking-report.pdf?sfvrsn=6c7f466b_2
+
 [20] https://documents1.worldbank.org/curated/en/539271629267802196/pdf/Philippines-Financial-Sector-Assessment-Program-Philippine-Payment-and-Settlement-System-Technical-Note.pdf
+
 [21] https://www.linkedin.com/advice/1/how-do-you-measure-benchmark-value-impact-rtgs
+
 [22] https://www.bsp.gov.ph/PaymentAndSettlement/ISF_FAQs.pdf
+
 [23] https://www.dbp.ph/wp-content/uploads/2019/12/Revised-DBP-Citizens-Charter-2019-First-Edition.pdf
+
 [24] https://firb.gov.ph/cost-benefit-analysis-results/
+
 [25] https://www.swift.com/swift-resource/4716/download?language=en
+
 [26] https://documents1.worldbank.org/curated/en/099011624132054588/pdf/P1787031cca90801019d011a41f21efe348.pdf
+
 [27] https://www.rba.gov.au/payments-and-infrastructure/payments-system.html
